@@ -18,7 +18,7 @@ const morgan=require("morgan");
 
 app.use(morgan("dev"));
 
-app.use("/",postRoutes.router);
+app.use("/",postRoutes.router);//root home
 
 
 app.listen(port,()=>console.log("a node server is listening on port:",port,`link: http://localhost:${port}`));

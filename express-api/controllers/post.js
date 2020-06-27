@@ -1,5 +1,10 @@
 const getPosts=(req, res) =>{
-    res.send("server running fine");
+    res.json({
+        posts:[
+            {title:"first post"},
+            {title:"second post"},
+        ]
+    });
 }
 
 
