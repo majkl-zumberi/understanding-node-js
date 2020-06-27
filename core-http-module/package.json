@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/majkl-zumberi/understanding-node-js/issues"
   },
-  "homepage": "https://github.com/majkl-zumberi/understanding-node-js#readme"
+  "homepage": "https://github.com/majkl-zumberi/understanding-node-js#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
