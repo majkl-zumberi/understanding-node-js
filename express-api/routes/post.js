@@ -1,5 +1,10 @@
-const getPosts=(req,res)=>{
-    res.send("server running fine");
-}
+const postController=require("../controllers/post");
 
-module.exports={getPosts};
+const express=require("express");
+
+const router=express.Router();
+
+
+router.get("/",postController.getPosts);
+
+module.exports={router};
