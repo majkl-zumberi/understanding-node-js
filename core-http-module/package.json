@@ -1,0 +1,19 @@
+{
+  "name": "core-http-module",
+  "version": "1.0.0",
+  "description": "learn basics of node-js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majkl-zumberi/understanding-node-js.git"
+  },
+  "author": "majkl zumberi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/majkl-zumberi/understanding-node-js/issues"
+  },
+  "homepage": "https://github.com/majkl-zumberi/understanding-node-js#readme"
+}
