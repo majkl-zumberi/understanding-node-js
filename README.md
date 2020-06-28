@@ -1,5 +1,5 @@
 # understanding-node-js
-## piccoli esempi pratici per capire node-JS lato backend
+## piccoli esempi pratici per capire node-JS : backend
 
 
 * [code separartion](/code-separation)
@@ -13,8 +13,8 @@
 	- controlla se il file cambia
 	- leggere contenuto file
 	
-* [utilizzo modulo express (basic)](/express-module)
-* [utilizzo modulo express (medio-avanzato)](/express-api)
+* [utilizzo framework express (basic)](/express-module)
+* [utilizzo framework express (medio-avanzato)](/express-api)
 	- response in json
 	- utilizzo di
 		- code separation per mettere le response nella cartella controllers
