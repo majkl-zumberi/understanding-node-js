@@ -3,7 +3,7 @@
 
 
 * [code separartion](/code-separation)
-	 - utilizzo di require ed exports
+	 - utilizzo di require ed exports (common JS)
 	  
 * [utilizzo di modulo core(http)](/core-http-module)
 	- creazione server senza  pacchetti
@@ -17,6 +17,6 @@
 * [utilizzo framework express (medio-avanzato)](/express-api)
 	- response in json
 	- utilizzo di
-		- code separation per mettere le response nella cartella controllers
-		- code separation per mettere le routes nella cartella routes
+		- code separation per mettere le response nella cartella controllers (common JS)
+		- code separation per mettere le routes nella cartella routes (common JS)
 		- utilizzo di express.route
