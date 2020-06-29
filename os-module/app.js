@@ -1,5 +1,4 @@
 const os=require("os");
-const { O_DIRECT } = require("constants");
 
 //Platform
 /**
