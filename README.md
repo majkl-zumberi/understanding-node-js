@@ -23,9 +23,9 @@
 * [utilizzzo os module](/os-module)
 * [utilizzo url module](/core-url-module)
 * [utilizzo di event module](/core-event-module)
-	-esempio di utilizzo EventEmitter
-	-esempio di logger con scrittura su file del log
+	- esempio di utilizzo EventEmitter
+	- esempio di logger con scrittura su file del log
 * [esempio di web-server](/web-server-http-module)
-	-solo http module
-	-load statico delle pagine(vedi nei commit)
-	-load dinamico delle pagine con gestione del 404
+	- solo http module
+	- load statico delle pagine(vedi nei commit)
+	- load dinamico delle pagine con gestione del 404
