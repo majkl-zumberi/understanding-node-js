@@ -2,7 +2,7 @@
 ## piccoli esempi pratici per capire node-JS : backend
 
 
-* [code separartion](/code-separation)
+* [code separation](/code-separation)
 	 - utilizzo di require ed exports (common JS)
 	  
 * [utilizzo di modulo core(http)](/core-http-module)
